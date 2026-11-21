@@ -10,3 +10,4 @@ benchmark*.pdf
 benchmark*.svg
 *.npz
 examples/results/
+.DS_Store
